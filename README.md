@@ -1,3 +1,1 @@
 # Marvel
-by Jose 
-hi 
